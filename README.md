@@ -1,10 +1,9 @@
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hypoldev/hypoldev/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<h2 align="left">Hi 👋! My name is Pol and I'm a Fullstack Dev, from Spain</h2>
+<h2 align="center">Hi 👋! My name is Pol and I'm a Fullstack Dev from Spain</h2>
 
 ###
 
